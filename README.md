@@ -18,16 +18,6 @@ Medical image preprocessing is repetitive across projects: loading DICOM series,
 Built as a companion library to:
 - **[lungnet-hybrid](https://github.com/mfhrm31/lungnet-hybrid)** — Hybrid feature fusion
 
-- medical-image-utils/
-├── src/
-│   ├── io/                 # DICOM, NIfTI, image loading
-│   ├── normalization/      # Intensity normalization and windowing
-│   ├── preprocessing/      # ROI extraction, resampling
-│   └── augmentation/       # Medical-aware augmentations
-├── examples/               # Usage examples on public datasets
-├── tests/                  # Unit tests
-└── docs/                   # Additional documentation
-
 ##  Supported Modalities
 
 | Modality | Format | Status |
