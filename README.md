@@ -1,8 +1,6 @@
 # medical-image-utils
 Lightweight Python toolkit for medical image preprocessing — DICOM loading, intensity normalization, lung/brain segmentation utilities.
 
-# medical-image-utils 🏥
-
 **Lightweight Python toolkit for medical image preprocessing**
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
